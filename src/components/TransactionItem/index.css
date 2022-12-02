@@ -1,0 +1,44 @@
+.history-item-container {
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.delete-img {
+  height: 16px;
+  width: 16px;
+}
+.history-item-alignment {
+  display: flex;
+  justify-content: space-between;
+}
+.h-left-line-v {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.h-right-line-v {
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.h-item-line-bottom {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.delete-btn {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+li {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
